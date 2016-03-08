@@ -6,12 +6,12 @@ Reader is a feed reader with a difference.
 
 If you wish to develop
 
-- Install virtualenvwrapper
+- Install virtualenvwrapper  
 ``dnf install python-virtualenvwrapper``
 
-- Create the virtualenv
+- Create the virtualenv  
 ``mkvirtualenv -p python3 reader``
 
-- Install the dependencies
+- Install the dependencies  
 ``pip install -r requirements.txt``
 
